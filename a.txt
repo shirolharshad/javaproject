@@ -5,15 +5,19 @@ hi hello whagt arr you doing?
 <<<<<<< HEAD
 hi hello i am fine
 jhbagcujygejc
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 0a16dcd...  aehdje
 =======
 hi how are you doing
+=======
+>>>>>>> slave2
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -27,3 +31,6 @@ hi how are you doing
 
 println"Sami narayan"
 >>>>>>> slave
+=======
+println("Hello World"d
+>>>>>>> slave2
