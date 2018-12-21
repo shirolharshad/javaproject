@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi hello whagt arr you doing?
 =======
 <<<<<<< HEAD
@@ -6,3 +7,23 @@ hi hello i am fine
 jhbagcujygejc
 =======
 >>>>>>> parent of 0a16dcd...  aehdje
+=======
+hi how are you doing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+println"Sami narayan"
+>>>>>>> slave
