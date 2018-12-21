@@ -1,25 +1,19 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-hi hello whagt arr you doing?
-=======
-<<<<<<< HEAD
-hi hello i am fine
-jhbagcujygejc
-<<<<<<< HEAD
-=======
->>>>>>> parent of 0a16dcd...  aehdje
-=======
-hi how are you doing
-=======
->>>>>>> slave2
+##<<<<<<< HEAD
+###<<<<<<< HEAD
+echo "i hello whagt arr you doing?"
+###<<<<<<< HEAD
+echo "hi hello i am fine"
+echo "jhbagcujygejc"
+##<<<<<<< HEAD
+##>>>>>>> parent of 0a16dcd...  aehdje
+echo "hi how are you doing"
+###>>>>>>> slave2
 
 
 
 
 
-<<<<<<< HEAD
-
-
+###<<<<<<< HEAD
 
 
 
@@ -27,10 +21,11 @@ hi how are you doing
 
 
 
+echo " hi swami narayan how are you"
 
 
-println"Sami narayan"
->>>>>>> slave
-=======
-println("Hello World"d
->>>>>>> slave2
+
+echo "println"Sami narayan""
+##>>>>>>> slave
+echo "println("Hello World"d"
+##>>>>>>> slave2
