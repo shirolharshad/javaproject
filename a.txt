@@ -16,6 +16,8 @@ echo "hi how are you doing"
 ###<<<<<<< HEAD
 
 
+echo  " 3rd testing"
+
 echo "2nd testing hooks concept"
 
 echo " Tetsing hooks concept"
